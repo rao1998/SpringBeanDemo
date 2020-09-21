@@ -1,0 +1,6 @@
+server:
+  port: 8070
+spring:
+  output:
+    ansi:
+      enabled: always
